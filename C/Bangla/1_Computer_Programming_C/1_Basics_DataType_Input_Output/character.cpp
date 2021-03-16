@@ -10,12 +10,6 @@ int main(int argc, char const *argv[])
 	printf("%c\n", c);
 
 
-	scanf("%c", &c);
-	printf("%c", c);
-
-
-	// printf("_________________________________________________");
-
 
 	char ch;
 
@@ -24,6 +18,16 @@ int main(int argc, char const *argv[])
     
 
     printf("....................................................\n");
+
+
+	scanf("%c", &c);
+	printf("%c", c);
+
+
+	printf("_________________________________________________\n");
+
+
+
 
 	return 0;
 }
